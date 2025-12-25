@@ -120,7 +120,7 @@ Setup Virtual Machine or Labs as Lab to attack or learn. It's 100% Legal to Lear
 - Windows Privilege Escalation
 - Linux Privilege Escalation
 - Reverse shells (learn netcat)
-- Resources: [gtfobins](https://gtfobins.github.io/), [pentestmonkey](http://pentestmonkey.net/)
+- Resources: [gtfobins](https://gtfobins.github.io/), [pentestmonkey](https://pentestmonkey.net/)
 
 ### Data Exfiltration techniques
 - Network sniffing, Wireshark & packet capture

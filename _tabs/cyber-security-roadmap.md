@@ -6,6 +6,8 @@ order: 6
 
 # Cyber Security Roadmap (Beginners)
 
+[Download PDF](Cyber_Security_Roadmap_(Beginners)_ethicalhackx.pdf)
+
 ## Starting The Journey
 
 ### Computer Fundamentals

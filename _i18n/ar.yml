@@ -1,0 +1,43 @@
+layout:
+  post: منشور
+  category: فئة
+  tag: وسم
+  archives: الأرشيف
+  about: حول
+  search: بحث
+  home: الرئيسية
+
+tabs:
+  about: حول
+  archives: الأرشيف
+  categories: الفئات
+  tags: الوسوم
+  projects: المشاريع
+  roadmap: خريطة الطريق
+
+post:
+  published: نشر
+  updated: تحديث
+  read_time: وقت القراءة
+  words: كلمات
+  toc: جدول المحتويات
+  related_posts: منشورات ذات صلة
+
+pagination:
+  page: الصفحة %d من %d
+  previous: السابق
+  next: التالي
+
+search:
+  placeholder: ابحث...
+
+comments:
+  title: التعليقات
+  disqus: Disqus
+  utterances: Utterances
+  giscus: Giscus
+
+footer:
+  powered_by: مدعوم من %s
+  theme: القالب
+  jekyll: Jekyll

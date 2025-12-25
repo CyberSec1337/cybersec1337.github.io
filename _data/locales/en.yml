@@ -1,0 +1,43 @@
+layout:
+  post: Post
+  category: Category
+  tag: Tag
+  archives: Archives
+  about: About
+  search: Search
+  home: Home
+
+tabs:
+  about: About
+  archives: Archives
+  categories: Categories
+  tags: Tags
+  projects: Projects
+  roadmap: Roadmap
+
+post:
+  published: Published
+  updated: Updated
+  read_time: Read time
+  words: words
+  toc: Table of Contents
+  related_posts: Related Posts
+
+pagination:
+  page: Page %d of %d
+  previous: Previous
+  next: Next
+
+search:
+  placeholder: Search...
+
+comments:
+  title: Comments
+  disqus: Disqus
+  utterances: Utterances
+  giscus: Giscus
+
+footer:
+  powered_by: Powered by %s
+  theme: Theme
+  jekyll: Jekyll

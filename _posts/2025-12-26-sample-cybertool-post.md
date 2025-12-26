@@ -3,7 +3,7 @@ title: Introduction to CyberTool Category
 date: 2025-12-26 13:00:00 +0300
 categories: [CyberTool]
 tags: [tools, cybersecurity, introduction]
-image: https://i.postimg.cc/HWJ67j84/Chat-GPT-Image-Dec-26-2025-11-39-00-PM.png
+image: https://i.postimg.cc/HWJ67j84/Chat-GPT-Image-Dec-26-2025-11-39-00-PM.png 
 ---
 
 # Introduction to CyberTool Category

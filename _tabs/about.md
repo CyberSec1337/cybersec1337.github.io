@@ -15,7 +15,7 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
 - **CTF Player**: Active participant in capture the flag competitions
 
 ## Certifications
-- Tryhackme 
+- **Tryhackme**
    - Advent of Cyber 2025
    - Web Application Red Teaming
    - CompTIA Pentest+
@@ -29,7 +29,7 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
    - Pre Security  
    - Advent of Cyber 2022
 
-- AWS Certified 
+- **AWS Certified**
    - AWS Educate Getting Started with Cloud Ops - Training BadgeAmazon Web Services Training and Certification
    - AWS Educate Getting Started with Compute - Training BadgeAmazon Web Services Training and Certification
    - AWS Educate Getting Started with Databases - Training BadgeAmazon Web Services Training and Certification
@@ -39,16 +39,16 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
    - AWS Educate Getting Started with Storage - Training BadgeAmazon Web Services Training and Certification 
    - AWS Educate Introduction to Cloud 101 - Training Badge
 
-- Google Cybersecurity Professional (GCP).
+- **Google Cybersecurity Professional** (GCP).
    - Foundations of Cybersecurity.
    - Play It Safe: Manage Security Risks.
    - Connect and Protect: Networks and Network Security.
    - Tools of the Trade: Linux and SQL.
 
-- IBM
+- **IBM**
    - Introduction to Cybersecurity Tools & Cyberattacks
     
-- Edraak
+- **Edraak**
     - Cyber Security Specialization
        - Course 1: Introduction to Cyber Security
        - Course 2: Cyber Security Basics

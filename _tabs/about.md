@@ -16,46 +16,46 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
 
 ## Certifications
 - Tryhackme 
-    Advent of Cyber 2025
-    Web Application Red Teaming
-    CompTIA Pentest+
-    pathway-beginner
-    Web Application Pentesting
-    pathway-introtocyber
-    Advent of Cyber 2024
-    Jr Penetration Tester
-    Advent of Cyber 2023
-    Cyber Security 101
-    Pre Security  
-    Advent of Cyber 2022
+   - Advent of Cyber 2025
+   - Web Application Red Teaming
+   - CompTIA Pentest+
+   - pathway-beginner
+   - Web Application Pentesting
+   - pathway-introtocyber
+   - Advent of Cyber 2024
+   - Jr Penetration Tester
+   - Advent of Cyber 2023
+   - Cyber Security 101
+   - Pre Security  
+   - Advent of Cyber 2022
 
 - AWS Certified 
-    AWS Educate Getting Started with Cloud Ops - Training BadgeAmazon Web Services Training and Certification
-    AWS Educate Getting Started with Compute - Training BadgeAmazon Web Services Training and Certification
-    AWS Educate Getting Started with Databases - Training BadgeAmazon Web Services Training and Certification
-    AWS Educate Getting Started with Networking - Training BadgeAmazon Web Services Training and Certification
-    AWS Educate Getting Started with Security - Training BadgeAmazon Web Services Training and Certification
-    AWS Educate Getting Started with Serverless - Training BadgeAmazon Web Services Training and Certification
-    AWS Educate Getting Started with Storage - Training BadgeAmazon Web Services Training and Certification 
-    AWS Educate Introduction to Cloud 101 - Training Badge
+   - AWS Educate Getting Started with Cloud Ops - Training BadgeAmazon Web Services Training and Certification
+   - AWS Educate Getting Started with Compute - Training BadgeAmazon Web Services Training and Certification
+   - AWS Educate Getting Started with Databases - Training BadgeAmazon Web Services Training and Certification
+   - AWS Educate Getting Started with Networking - Training BadgeAmazon Web Services Training and Certification
+   - AWS Educate Getting Started with Security - Training BadgeAmazon Web Services Training and Certification
+   - AWS Educate Getting Started with Serverless - Training BadgeAmazon Web Services Training and Certification
+   - AWS Educate Getting Started with Storage - Training BadgeAmazon Web Services Training and Certification 
+   - AWS Educate Introduction to Cloud 101 - Training Badge
 
 - Google Cybersecurity Professional (GCP).
-    Foundations of Cybersecurity.
-    Play It Safe: Manage Security Risks.
-    Connect and Protect: Networks and Network Security.
-    Tools of the Trade: Linux and SQL.
+   - Foundations of Cybersecurity.
+   - Play It Safe: Manage Security Risks.
+   - Connect and Protect: Networks and Network Security.
+   - Tools of the Trade: Linux and SQL.
 
 - IBM
-    Introduction to Cybersecurity Tools & Cyberattacks
+   - Introduction to Cybersecurity Tools & Cyberattacks
     
 - Edraak
     - Cyber Security Specialization
-        Course 1: Introduction to Cyber Security
-        Course 2: Cyber Security Basics
-        Course 3: Protect systems from penetrations
-        Course 4: Cyber Security ​​attack techniques
-        Course 4: Cyber Security ​​attack techniques
-        Course 5: Career path in Cyber Security
+       - Course 1: Introduction to Cyber Security
+       - Course 2: Cyber Security Basics
+       - Course 3: Protect systems from penetrations
+       - Course 4: Cyber Security ​​attack techniques
+       - Course 4: Cyber Security ​​attack techniques
+       - Course 5: Career path in Cyber Security
     
 ## Skills
 - Penetration Testing

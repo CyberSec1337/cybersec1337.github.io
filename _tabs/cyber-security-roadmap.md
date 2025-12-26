@@ -6,7 +6,7 @@ order: 6
 
 # Cyber Security Roadmap (Beginners)
 
-[Download PDF](https://ethicalhackx.com/cybersec_roadmap.pdf)
+<a href="https://ethicalhackx.com/cybersec_roadmap.pdf" style="color: darkblue; background-color: black; padding: 10px; border-radius: 5px;">Download PDF</a>
 
 ## Starting The Journey
 

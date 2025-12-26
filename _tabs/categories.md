@@ -9,7 +9,7 @@ order: 1
 Here are the main categories on this blog:
 
 - Cybersecurity
+  - CTF Writeup
 - Penetration Testing
-- CTF Writeup
 
 {: .prompt-tip }

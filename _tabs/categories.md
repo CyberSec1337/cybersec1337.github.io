@@ -8,8 +8,8 @@ order: 1
 
 Here are the main categories on this blog:
 
-- [Cybersecurity]({% link categories/Cybersecurity %})
-- [Penetration Testing]({% link categories/Penetration%20Testing %})
-- [CTF Writeup]({% link categories/CTF%20Writeup %})
+- Cybersecurity
+- Penetration Testing
+- CTF Writeup
 
 {: .prompt-tip }

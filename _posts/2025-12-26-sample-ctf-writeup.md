@@ -3,7 +3,7 @@ title: Introduction to CTF Writeup Category
 date: 2025-12-26 15:00:00 +0300
 categories: [CTF Writeup]
 tags: [ctf, writeup, introduction]
-image: https://i.postimg.cc/ZqKmx66V/Chat-GPT-Image-Dec-26-2025-11-20-41-PM.png
+image: https://i.postimg.cc/gkcB4hs5/4.png
 ---
 
 # Introduction to CTF Writeup Category

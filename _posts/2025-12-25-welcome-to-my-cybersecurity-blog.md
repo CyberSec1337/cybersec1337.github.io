@@ -3,6 +3,7 @@ title: Welcome to My Cybersecurity Blog
 date: 2025-12-24 12:00:00 +0300
 categories: [Cybersecurity, Introduction]
 tags: [welcome, cybersecurity, blog]
+pin: true
 ---
 
 # Welcome to CyberSec1337

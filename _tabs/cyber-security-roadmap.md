@@ -12,26 +12,26 @@ order: 6
 
 ### Computer Fundamentals
 - CompTIA A+
-- Only if you have no idea of computer, this will teach very basics, Good to learn, but skip if you have been using computers
+- Only if you have no idea about computers. This will teach very basics. Good to learn, but skip if you have been using computers.
 
 ### Operating Systems
-- Windows OS: Learn about different OS from Microsoft, their versions, improvements over last versions (broadly). Just get around with day to day tasks in Windows OS, and very basic troubleshooting.
-- Linux OS and Uses, different distributions: What is Linux, What are Linux Distro/or Distributions, What is Linux Kernel, and its functions, Different Linux distributions idea, what's basic difference in Linux Distributions.
+- Windows OS: Learn about different OS from Microsoft, their versions, and improvements over last versions (broadly). Just get around with day-to-day tasks in Windows OS, and very basic troubleshooting.
+- Linux OS and Uses, different distributions: What is Linux, what are Linux Distros/Distributions, what is Linux Kernel and its functions, different Linux distributions idea, what's the basic difference in Linux Distributions.
 
 ### The Best OS for Hackers
-NEVER! NEVER get into this debate, OS Does not makes better Hackers, Hacker is who can do his task on any OS, Windows or Linux all work equally well for most of the tasks.
+NEVER! NEVER get into this debate. OS does not make better Hackers. A hacker is who can do his task on any OS, Windows or Linux all work equally well for most of the tasks.
 
 ### GOOGLE: Learning How to do Google Search like Hackers
-Searching/Research is what can really make someone Hacker, it is the most important skill. Search anything on Search engines, Facing any problem? How to <problem> search this and you can get the solutions 99% of the times.
+Searching/Research is what can really make someone a Hacker; it is the most important skill. Search anything on search engines. Facing any problem? "How to <problem>" search this and you can get the solutions 99% of the times.
 
-### Learn What is Cyber Security / Hacking / Penetration Testing / Blue Teaming / Red Teaming / Different Cyber Security Domains(Jobs)
+### Learn What is Cyber Security / Hacking / Penetration Testing / Blue Teaming / Red Teaming / Different Cyber Security Domains (Jobs)
 Search and learn about:
 - What is Cyber Security
 - What is Hacking
 - Why do we need Cyber Security
 - What Hackers do
 - What are jobs in Cyber Security
-- What all Skills are needed to get job in Cyber security
+- What all Skills are needed to get a job in Cyber Security
 
 ## CURIOSITY | RESEARCH | PATIENCE
 Always try to Know more about things. To break things efficiently, some knowledge of How to make things is better to have.
@@ -39,33 +39,41 @@ Always try to Know more about things. To break things efficiently, some knowledg
 ## Towards Basic Knowledge of Security & Hacking
 
 ### Computer Programming (Start basics)
-Start with any 1 or two languages and give at least 20 hours to learn. It maybe Python | JavaScript or any other.
+Start with any 1 or two languages and give at least 20 hours to learn. It may be Python, JavaScript, or any other.
 
-Is programming really necessary for hacking? NO. But do you want to be a good hacker without Knowing or understanding basic programming? Very rare chances.
+Is programming really necessary for hacking? NO. But do you want to be a good hacker without knowing or understanding basic programming? Very rare chances.
 
-### Cyber Security & Hacking terms
-Search & Learn: Vulnerability | Exploit | Threat | Malware | Virus | Botnet | Cloud | Firewall | Virus | Ransomware | Trojan | Worm | Spyware | Adware | Rootkit | Phishing | Spear Phishing | DoS | DDoS | Encryption | Encoding | Penetration Testing | Vulnerability Scanning | Social-Engineering | Clickjacking | White-Hat | Black-Hat | SAST | DAST | APT | Authentication | Authorization | Bug | ciphertext | CVE | cryptography | decrypt | DMZ | drive-by download | encode | encryption key | honeypot | IaaS | IDS | IPS | insider threat | ISP | keylogger | LAN | OWASP | PaaS | packet sniffing | patch | PKI | SaaS | sandboxing | SIEM | sniffing | SPAM | spoofing | supply chain | two-factor authentication.
+### Cyber Security & Hacking Terms
+Search & Learn:
+- Vulnerability | Exploit | Threat | Malware | Virus | Botnet | Cloud | Firewall
+- Ransomware | Trojan | Worm | Spyware | Adware | Rootkit | Phishing | Spear Phishing
+- DoS | DDoS | Encryption | Encoding | Penetration Testing | Vulnerability Scanning
+- Social-Engineering | Clickjacking | White-Hat | Black-Hat | SAST | DAST | APT
+- Authentication | Authorization | Bug | Ciphertext | CVE | Cryptography | Decrypt
+- DMZ | Drive-by download | Encode | Encryption key | Honeypot | IaaS | IDS | IPS
+- Insider threat | ISP | Keylogger | LAN | OWASP | PaaS | Packet sniffing | Patch
+- PKI | SaaS | Sandboxing | SIEM | Sniffing | SPAM | Spoofing | Supply chain | Two-factor authentication
 
 ### Windows OS
 - Windows Installation
 - Read some blogs about Windows Internals
 - What are the security features in Windows OS
-- Know few things like auto-start locations, registry editors, services managers, task manager
+- Know a few things like auto-start locations, registry editor, services manager, task manager
 
 ### Linux OS
 - Basic Linux Administrative Knowledge is required
 - Linux+ course is good enough to start with
 - Make CLI a friend
 
-### Computer Network
-- Why is Network required & it's use
+### Computer Networks
+- Why is Network required & its use
 - Different Network devices like Router, Switch, Modem
 - IP Address (Public & Private IP Address), Network Subnets and Calculations
 - OSI Layers & TCP/IP Model
 - Server Client model, DNS request, How Website request is made and resolved
-- Proxy and It's uses, VPN, VLAN, MAC Address, Firewall, Load-Balancers
-- What are Ports and Common Ports on computer
-- What is DHCP, SSL their functions
+- Proxy and Its uses, VPN, VLAN, MAC Address, Firewall, Load-Balancers
+- What are Ports and Common Ports on computers
+- What is DHCP, SSL and their functions
 
 ### Virtual Machines(VM) / Virtualization
 - VirtualBox, VMWare, WSL

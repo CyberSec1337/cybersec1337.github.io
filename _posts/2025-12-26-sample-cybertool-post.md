@@ -3,11 +3,19 @@ title: Introduction to CyberTool Category
 date: 2025-12-26 13:00:00 +0300
 categories: [CyberTool]
 tags: [tools, cybersecurity, introduction]
+image: https://i.postimg.cc/HWJ67j84/Chat-GPT-Image-Dec-26-2025-11-39-00-PM.png
 ---
 
 # Introduction to CyberTool Category
 
+<div style="display: flex; align-items: flex-start;">
+<div style="flex: 1;">
 Welcome to the CyberTool category! This dedicated section of our blog is focused on sharing valuable cybersecurity tools, scripts, utilities, and resources that can help security professionals, researchers, and enthusiasts in their work.
+</div>
+<div style="margin-left: 20px;">
+<img src="https://i.postimg.cc/HWJ67j84/Chat-GPT-Image-Dec-26-2025-11-39-00-PM.png" alt="CyberTool Category" style="max-width: 300px; height: auto;">
+</div>
+</div>
 
 ## What We Publish Here
 

@@ -13,7 +13,7 @@ image: https://via.placeholder.com/400x200?text=Cybersecurity+Tools
 In the world of cybersecurity, having the right tools is essential for effective defense and analysis. Here are some of the most famous and widely used cybersecurity tools that every professional should know about.
 </div>
 <div style="margin-left: 20px;">
-<img src="https://via.placeholder.com/300x200?text=Cybersecurity+Tools" alt="Cybersecurity Tools" style="max-width: 300px; height: auto;">
+<img src="https://cdn-kholb.nitrocdn.com/hHZZotKTBKaIwEBoiILOZIRBRHWqnFhk/assets/images/optimized/rev-cb3aca2/umbrex.com/wp-content/uploads/2024/10/Security-Compliance_-Cybersecurity-Tools.png" alt="Cybersecurity Tools" style="max-width: 300px; height: auto;">
 </div>
 </div>
 

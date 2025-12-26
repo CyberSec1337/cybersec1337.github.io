@@ -1,50 +1,43 @@
 ---
-title: Sample CTF Writeup - Web Exploitation Challenge
+title: Introduction to CTF Writeup Category
 date: 2025-12-26 15:00:00 +0300
 categories: [CTF Writeup]
-tags: [ctf, web, writeup, exploitation]
+tags: [ctf, writeup, introduction]
 image: https://i.postimg.cc/ZqKmx66V/Chat-GPT-Image-Dec-26-2025-11-20-41-PM.png
 ---
 
-# Sample CTF Writeup - Web Exploitation Challenge
+# Introduction to CTF Writeup Category
 
-This is a detailed writeup of a web exploitation challenge from a recent CTF competition.
+Welcome to the CTF Writeup category! This section is dedicated to detailed writeups of Capture The Flag challenges that I've solved.
 
-## Challenge Information
-- **Platform**: TryHackMe
-- **Category**: Web Exploitation
-- **Difficulty**: Easy
-- **Points**: 100
+## What You'll Find Here
 
-## Challenge Description
-The challenge presented a simple web application with a login form. The goal was to bypass authentication and retrieve the flag.
+In this category, I share:
 
-## Reconnaissance
-First, I visited the website and examined the login form. It had username and password fields.
+### Challenge Writeups
+- Step-by-step solutions to CTF challenges
+- Tools and techniques used
+- Lessons learned from each challenge
+- Flags and explanations
 
-I tried basic SQL injection payloads like `' OR 1=1 --` but it didn't work.
+### Platform Coverage
+- TryHackMe challenges
+- HackTheBox machines
+- CTFtime events
+- Various online platforms
 
-## Enumeration
-I used Burp Suite to intercept the requests. The login request was a POST to `/login` with parameters `username` and `password`.
+### Difficulty Levels
+- Beginner-friendly challenges
+- Intermediate to advanced problems
+- Real-world scenario simulations
 
-I checked for common vulnerabilities like XSS, but the input was sanitized.
+## How to Use These Writeups
 
-## Exploitation
-After some testing, I noticed that the application was vulnerable to command injection in the username field.
+- Learn new techniques and tools
+- Understand common vulnerabilities
+- Practice your skills
+- Get inspired for your own CTF journey
 
-By entering `; cat /flag.txt` as username, I was able to execute the command and retrieve the flag.
-
-## Flag
-`THM{command_injection_master}`
-
-## Lessons Learned
-- Always test for command injection in input fields
-- Use proper input validation and sanitization
-- Never trust user input
-
-## Tools Used
-- Burp Suite for request interception
-- Browser developer tools
-- Linux terminal for testing
+Check out the writeups below, arranged from newest to oldest.
 
 {: .prompt-tip }

@@ -8,25 +8,28 @@ order: 5
 
 Here are some of the cybersecurity projects I've worked on:
 
-## Vulnerability Scanner
+## Password Analysis and Security Tool
 A custom vulnerability scanner built with Python that identifies common web application vulnerabilities.
 
-- **Technologies**: Python, Scapy, BeautifulSoup
-- **Features**: SQL injection detection, XSS scanning, directory enumeration
-- **GitHub**: [Link to repository]
+- **Technologies**: Python  
+- **Features**: This is a Password Analysis Ai Security Tool built with Streamlit that provides
 
 ## CTF Writeups
 Collection of writeups from various CTF challenges I've participated in.
 
-- **Platforms**: HackTheBox, TryHackMe, CTFtime
-- **Topics**: Web exploitation, cryptography, forensics
+- **Platforms**: HackTheBox,TryHackMe, picoCTF
+- **Topics**: Web exploitation, cryptography, forensics, Malware analysis, SOC analyst
 - **Latest**: [Recent challenge name]
 
-## Security Monitoring Dashboard
-A dashboard for monitoring network security events using ELK stack.
+## OSINT Monitoring Dashboard
+A dashboard for monitoring OSINT data from multiple sources.
 
-- **Technologies**: Elasticsearch, Logstash, Kibana
+- **Technologies**: Python, React, API.
 - **Features**: Real-time alerts, threat intelligence integration
-- **Status**: In development
+- **Status**: Complite development
+
+## App mobile Golde for costomers
+An app for customers to track their Sell/buy and pres Golde and receive notifications.
 
 {: .prompt-tip }
+

@@ -16,17 +16,19 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
 
 ## Certifications
 - **TryHackMe**
-  - Advent of Cyber 2025
-  - Web Application Red Teaming
-  - CompTIA Pentest+
-  - Pathway Beginner
-  - Web Application Pentesting
   - Pathway Intro to Cyber
-  - Advent of Cyber 2024
-  - Jr Penetration Tester
-  - Advent of Cyber 2023
-  - Cyber Security 101
   - Pre Security
+  - Cyber Security 101
+  - Jr Penetration Tester
+  - Web Fundamentals
+  - Web Application Pentesting
+  - Web Application Red Teaming
+  - Red Teaming
+  - Pathway Beginner
+  - CompTIA Pentest+
+  - Advent of Cyber 2025
+  - Advent of Cyber 2024
+  - Advent of Cyber 2023
   - Advent of Cyber 2022
 
 - **AWS Certified**
@@ -44,19 +46,44 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
   - Play It Safe: Manage Security Risks
   - Connect and Protect: Networks and Network Security
   - Tools of the Trade: Linux and SQL
-
+  - Sound the Alarm: Detection and Response
+  - Automate Cybersecurity Tasks with Python
+  - Put It to Work: Prepare for Cybersecurity Jobs
+  - Accelerate Your Job Search with AI  
+    
 - **IBM**
   - Introduction to Cybersecurity Tools & Cyberattacks
 
+  - IBM Ethical Hacking with Open Source Tools--Intermediate · Professional Certificate
+    - Introduction to Ethical Hacking Principles 
+    - Ethical Hacking with Kali Linux
+    - Exploitation and Penetration Testing with Metasploit
+    - Network Traffic Analysis with Wireshark
+    - Incident Response and Defense with OpenVAS
+    - Ethical Hacking Capstone Project: Breach, Response, AI
+  
+- **Packt - Course Instructors**
+  - The Complete Ethical Hacking Course Specialization
+    - Ethical Hacking Foundations & Network Security
+    - Web Security, Social Engineering & External Attacks
+    - Advanced Web Exploits, Python Scripting & Network Attacks
+    - Exploit Development, Malware, & Defensive Strategies
+
 - **Edraak**
-  - Cyber Security Specialization
+  - Google Cyber Security Specialization
     - Course 1: Introduction to Cyber Security
     - Course 2: Cyber Security Basics
     - Course 3: Protect systems from penetrations
     - Course 4: Cyber Security attack techniques
     - Course 5: Career path in Cyber Security
-    
+    - Course 6: Assets, Threats, and Vulnerabilities
+
+- **Redteamleaders**
+  - Certified Red Team Operations Management (CRTOM)
+
 ## Skills
+- Team Leadership
+- Offensive Security
 - Penetration Testing
 - Network Security
 - Incident Response
@@ -73,3 +100,4 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
 Feel free to reach out for collaborations, security discussions, or consulting opportunities.
 
 {: .prompt-tip }
+

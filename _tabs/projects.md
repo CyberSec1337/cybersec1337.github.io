@@ -31,11 +31,11 @@ A custom vulnerability scanner built with Python that identifies common web appl
 An interactive web application that demonstrates AES-256 encryption and decryption with step-by-step visualization.
 - **Technologies**: Python  
 - **Features**: 
-    - Step-by-step visualization of encryption/decryption process.
-    - Multiple Encryption Modes: Supports ECB, CBC, CFB, OFB, and CTR modes.
-    - Detailed Step Visualization: Complete visual representation of AES transformation rounds as a flow diagram.
-    - User-friendly interface.
-    - more
+  - Step-by-step visualization of encryption/decryption process.
+  - Multiple Encryption Modes: Supports ECB, CBC, CFB, OFB, and CTR modes.
+  - Detailed Step Visualization: Complete visual representation of AES transformation rounds as a flow diagram.
+  - User-friendly interface.
+  - more
 - **Status**: Complite development
 
 ## DDos protection monitor

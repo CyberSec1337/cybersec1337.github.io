@@ -70,7 +70,7 @@ Hello, I'm Mahmood Mohammed, a dedicated cybersecurity professional with experti
     - Exploit Development, Malware, & Defensive Strategies
 
 - **Edraak**
-  - Google Cyber Security Specialization
+  - Edraak Cyber Security Specialization
     - Course 1: Introduction to Cyber Security
     - Course 2: Cyber Security Basics
     - Course 3: Protect systems from penetrations
